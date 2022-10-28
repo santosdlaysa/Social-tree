@@ -2,4 +2,4 @@
 
 Desafio Rocketseat - Social Tree
 
-<img src="imagem.PNG">
+<img src="imagem.JPG">
